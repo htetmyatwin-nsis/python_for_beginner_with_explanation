@@ -30,3 +30,5 @@ print('str1[0:4] and str2[5:6]: ', str1[0: 4], str2[5: 6])
 print('Raw String: ', r'C:\\blah blah')
 print('Item name is %s and price is %d$ ! ' %('Zara Chino', 79))
 
+print('\n--- String Formatting Opertors ---\n')
+
