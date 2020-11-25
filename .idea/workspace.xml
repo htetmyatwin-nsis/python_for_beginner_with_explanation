@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="da837888-3f92-482e-a867-b1d01f1e5290" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/7_strings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +34,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kPorv05CyQDZw5JugoxPlvNrfA" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -47,7 +48,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="Python.7_strings">
+  <component name="RunManager" selected="Python.9_tuples">
     <configuration name="1_basic_syntax" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_testing" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -62,50 +63,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1_basic_syntax.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="5_loops (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_testing" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_loops.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="6_numbers (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_testing" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,13 +115,57 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="8_lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_testing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8_lists.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="9_tuples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_testing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9_tuples.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.9_tuples" />
+        <item itemvalue="Python.8_lists" />
         <item itemvalue="Python.7_strings" />
         <item itemvalue="Python.1_basic_syntax" />
         <item itemvalue="Python.6_numbers" />
-        <item itemvalue="Python.5_loops (1)" />
-        <item itemvalue="Python.6_numbers (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +200,13 @@
       <workItem from="1605938144383" duration="5723000" />
       <workItem from="1605956594780" duration="377000" />
       <workItem from="1605957387722" duration="492000" />
-      <workItem from="1605959070496" duration="4446000" />
+      <workItem from="1605959070496" duration="4688000" />
+      <workItem from="1606018881522" duration="12342000" />
+      <workItem from="1606110917064" duration="10525000" />
+      <workItem from="1606190756602" duration="2480000" />
+      <workItem from="1606219643593" duration="3418000" />
+      <workItem from="1606238357526" duration="2036000" />
+      <workItem from="1606305984661" duration="5171000" />
     </task>
     <servers />
   </component>
@@ -218,22 +225,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="842" y="144" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605959431172" />
-    <state width="764" height="151" key="GridCell.Tab.0.bottom" timestamp="1605962246922">
+    <state width="718" height="145" key="GridCell.Tab.0.bottom" timestamp="1606312123605">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="764" height="151" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605962246922" />
-    <state width="764" height="151" key="GridCell.Tab.0.center" timestamp="1605962246922">
+    <state width="718" height="145" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606312123605" />
+    <state width="718" height="145" key="GridCell.Tab.0.center" timestamp="1606312123604">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="764" height="151" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605962246922" />
-    <state width="764" height="151" key="GridCell.Tab.0.left" timestamp="1605962246922">
+    <state width="718" height="145" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606312123604" />
+    <state width="718" height="145" key="GridCell.Tab.0.left" timestamp="1606312123604">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="764" height="151" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605962246922" />
-    <state width="764" height="151" key="GridCell.Tab.0.right" timestamp="1605962246922">
+    <state width="718" height="145" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606312123604" />
+    <state width="718" height="145" key="GridCell.Tab.0.right" timestamp="1606312123604">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="764" height="151" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605962246922" />
+    <state width="718" height="145" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606312123604" />
     <state x="600" y="32" key="SettingsEditor" timestamp="1605956777948">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -248,9 +255,11 @@
     <SUITE FILE_PATH="coverage/python_for_beginner_with_explanation$6_numbers.coverage" NAME="6_numbers Coverage Results" MODIFIED="1605956662304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_testing$string_test.coverage" NAME="print_testing Coverage Results" MODIFIED="1605619085061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_for_beginner_with_explanation$1_basic_syntax.coverage" NAME="1_basic_syntax Coverage Results" MODIFIED="1605959229159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_for_beginner_with_explanation$8_lists.coverage" NAME="8_lists Coverage Results" MODIFIED="1606309809883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_testing$basic_syntax.coverage" NAME="basic_syntax Coverage Results" MODIFIED="1605681651647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_for_beginner_with_explanation$9_tuples.coverage" NAME="9_tuples Coverage Results" MODIFIED="1606312091877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_testing$oop_testing.coverage" NAME="oop_testing Coverage Results" MODIFIED="1605617249913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_for_beginner_with_explanation$7_strings.coverage" NAME="7_strings Coverage Results" MODIFIED="1605962246890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_for_beginner_with_explanation$7_strings.coverage" NAME="7_strings Coverage Results" MODIFIED="1606191347272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_testing$python_test.coverage" NAME="lists Coverage Results" MODIFIED="1605613271414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_testing$tuples.coverage" NAME="tuples Coverage Results" MODIFIED="1605613284531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_testing$function_testing.coverage" NAME="function_testing Coverage Results" MODIFIED="1605615543907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
